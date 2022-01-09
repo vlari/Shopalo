@@ -8,5 +8,5 @@
 
 <p>&nbsp;</p>
 
-![](images/promo.png)
+![](images/shopalogithub.png)
 
